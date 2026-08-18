@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    font-family: 'Time New Roman' Times, serif;
+    font-size: 18px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+body{
+    background-image: linear-gradient(to top right,#ecec93,#f66f6f);
+    height: 100vh;
+    width: 100%;
+}
+.Box{
+    border: 10px ridge azure;
+    width: 350px;
+    height: 200px;
+    overflow: auto;
+    box-sizing: border-box;
+    text-align: justify;
+}

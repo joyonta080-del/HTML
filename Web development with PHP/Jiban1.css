@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    font-family: Time New Roman;
+    font-size: 18px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(to top right,aquamarine,dodgerblue);
+    height: 100vh;
+    width: 100%;
+}
+.Box{
+    border: 5px solid bisque;
+    text-align: justiffy;
+    padding: 50px;
+    width: 50%;
+    color: brown;
+}
