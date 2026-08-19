@@ -1,0 +1,17 @@
+body{
+    background-color: #3d8d7a;
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    justify-content: center;
+}
+.box{
+    background-color: #fff6da;
+    border: 10px solid #a94a4a;
+    margin: 20px;
+    padding: 50px;
+    min-width:250px;
+    min-height: 150px;
+    box-sizing: border-box;
+    
+}
